@@ -1,5 +1,5 @@
 baseurl = "http://brewing-blog.s3-website-us-west-2.amazonaws.com/"
 languageCode = "en-gb"
 title = "Paddy's Brewing Blog"
-theme = "hyde-x"
+theme = "hyde-y"
 disqusShortname = "paddysbrewingblog"
