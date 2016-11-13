@@ -1,4 +1,4 @@
-baseurl = "paddy.beer"
+baseurl = "http://www.paddy.beer"
 languageCode = "en-gb"
 title = "Paddy's Brewing Blog"
 theme = "hyde-y"
